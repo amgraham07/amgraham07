@@ -5,5 +5,4 @@
 📫 How to reach me: @grahamallie1 or allie.graham@utah.ed
 😄 Pronouns: she/her
 
--->
 [![amgraham07's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgraham07)](https://github.com/amgraham07/github-readme-stats)
