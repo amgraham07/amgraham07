@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**amgraham07/amgraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://raw.githubusercontent.com/amgraham07/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
