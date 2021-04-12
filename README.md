@@ -7,6 +7,9 @@
 
 [![amgraham07's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgraham07)](https://github.com/amgraham07/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1]
