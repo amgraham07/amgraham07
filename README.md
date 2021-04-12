@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Hello, ya'll! <img src="https://gph.is/g/EGdXqpJ" width="30px">
+view raw
 
 🔭 I’m currently working on ... projects revolving around genomic basis of convergent evolution to hypoxia response\
 🌱 I’m currently learning ... everything! continuing to learn and improve my coding in R, and python\
