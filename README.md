@@ -9,14 +9,12 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://www.google.com/search?q=weebly+icon&tbm=isch&ved=2ahUKEwiU_p3D0vfvAhWDAjQIHbTcBJMQ2-cCegQIABAA&oq=weebly+icon&gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgIIADoFCAAQsQM6BwgAELEDEEM6BAgAEBhQtxVYzydgpShoAHAAeACAAWGIAaIHkgECMTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=b65zYNSKCYOF0PEPtLmTmAk&bih=905&biw=1554&rlz=1C5CHFA_enUS912US912&hl=en#imgrc=_KtMIiGQ3fpN4M \
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/@grahamallie1
-[2]: https://alliemgraham.weebly.com/
