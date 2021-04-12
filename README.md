@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hello, ya'll! <img src="https://gph.is/g/EGdXqpJ" width="30px">
+### Hello, ya'll! <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30px">
 view raw
 
 🔭 I’m currently working on ... projects revolving around genomic basis of convergent evolution to hypoxia response\
