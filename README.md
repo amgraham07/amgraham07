@@ -5,7 +5,7 @@
 📫 How to reach me: allie.graham@utah.edu\
 😄 Pronouns: she/her
 
-[![amgraham07's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgraham07)](https://github.com/amgraham07/github-readme-stats)
+[![amgraham07's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgraham07&layout=compact)](https://github.com/amgraham07/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgraham07&layout=compact)](https://github.com/amgraham07/github-readme-stats)
 
 
